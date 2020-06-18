@@ -5,7 +5,6 @@ import Child2 from './child2'
 const Parent=()=>{
     return(
             <div>
-                <h1></h1>
                 <Child />
                 <Child2/>
             </div>
